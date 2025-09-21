@@ -1,8 +1,8 @@
 ## Step 1 — Basic Packet Tracer connectivity test (DONE)
 
 - **Date completed:** 2025-09-21
-- **Packet Tracer version:** _paste your version here (e.g. 8.2.2)_
-- **OS:** _paste your OS here (e.g. Windows 10)_
+- **Packet Tracer version:**8.2.2
+- **OS:** Windows 11
 - **Test performed:** small topology with 2 PCs and 1 Cisco switch to verify Packet Tracer installation and basic connectivity.
 - **Device IPs**
   - PC0 — `192.168.1.10/24`
