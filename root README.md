@@ -13,3 +13,10 @@ CMPG325 individual networks project
   - Packet Tracer file: `topologies/basic_test/basic_test.pkt`
   - Screenshot: `screenshots/basic_test.png`
 - **Notes:** IPs assigned via Desktop → IP Configuration in Packet Tracer. Connectivity verified using Desktop → Command Prompt → `ping <other PC IP>`.
+### Bus Topology
+- Created a bus topology using a hub (3 PCs + 1 Hub).
+- IPs: 192.168.1.1 → 192.168.1.3 (/24).
+- Verified connectivity with ping from each PC.
+- Evidence:
+  - Screenshot: `screenshots/bus_topology.png`
+  - Packet Tracer file: `topologies/bus/bus_topology.pkt`
